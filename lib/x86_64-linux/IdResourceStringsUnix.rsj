@@ -1,0 +1,4 @@
+{"version":1,"strings":[
+{"hash":201092649,"name":"idresourcestringsunix.rsresolveerror","sourcebytes":[69,114,114,111,114,32,114,101,115,111,108,118,105,110,103,32,104,111,115,116,32,37,115,58,32,37,115,32,40,37,100,41],"value":"Error resolving host %s: %s (%d)"},
+{"hash":30613326,"name":"idresourcestringsunix.rsstacknonblockingnotsupported","sourcebytes":[78,111,110,45,98,108,111,99,107,105,110,103,32,110,111,116,32,115,117,112,112,111,114,116,101,100,46],"value":"Non-blocking not supported."}
+]}

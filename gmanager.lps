@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="win64-Debug"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="gmanager.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="1056"/>
+        <CursorPos X="53" Y="1092"/>
+        <UsageCount Value="229"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="functions.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="37" Y="30"/>
+        <UsageCount Value="228"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="processcommandline.pas"/>
+        <UnitName Value="processCommandLine"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="20"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="23" HistoryIndex="22">
+      <Position1>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="839" Column="48" TopLine="811"/>
+      </Position1>
+      <Position2>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="250" Column="20" TopLine="208"/>
+      </Position2>
+      <Position3>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="10" Column="39"/>
+      </Position3>
+      <Position4>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="15" Column="76"/>
+      </Position4>
+      <Position5>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="858" Column="66" TopLine="815"/>
+      </Position5>
+      <Position6>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="856" Column="13" TopLine="818"/>
+      </Position6>
+      <Position7>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="10" Column="42"/>
+      </Position7>
+      <Position8>
+        <Filename Value="functions.pas"/>
+        <Caret Line="30" Column="37"/>
+      </Position8>
+      <Position9>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="10" Column="42"/>
+      </Position9>
+      <Position10>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="861" Column="71" TopLine="827"/>
+      </Position10>
+      <Position11>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="227" Column="36" TopLine="209"/>
+      </Position11>
+      <Position12>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="10" Column="50"/>
+      </Position12>
+      <Position13>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="333" TopLine="251"/>
+      </Position13>
+      <Position14>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="274" Column="35" TopLine="245"/>
+      </Position14>
+      <Position15>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="282" Column="43" TopLine="258"/>
+      </Position15>
+      <Position16>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="270" Column="95" TopLine="256"/>
+      </Position16>
+      <Position17>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="256" TopLine="235"/>
+      </Position17>
+      <Position18>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="722" Column="60" TopLine="705"/>
+      </Position18>
+      <Position19>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="243" Column="81" TopLine="219"/>
+      </Position19>
+      <Position20>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="249" Column="88" TopLine="219"/>
+      </Position20>
+      <Position21>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="247" Column="22" TopLine="220"/>
+      </Position21>
+      <Position22>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="257" Column="91" TopLine="230"/>
+      </Position22>
+      <Position23>
+        <Filename Value="gmanager.pas"/>
+        <Caret Line="250" Column="34" TopLine="227"/>
+      </Position23>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

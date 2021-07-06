@@ -1,0 +1,1 @@
+.\gmanager.exe -i "0.0.0.0" -p 2400 --maxlogins=10 -d --whitelist=".\data\whitelist.txt" --whitelist-format="@data@:Unknown"  --allowedips="192.168.1.242,127.0.0.1" --password=123 --banlist=".\data\banlist.txt" --logdir=".\data"

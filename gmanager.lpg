@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectGroup FileVersion="1">
+    <Targets Count="1">
+      <Target0 FileName="gmanager.lpi">
+        <BuildModes Count="5"/>
+        <Mode1 Name="Debug" Compile="True"/>
+        <Mode2 Name="Release"/>
+        <Mode3 Name="win64-Debug"/>
+        <Mode4 Name="linux64-Debug"/>
+        <Mode5 Name="linux64-Release"/>
+      </Target0>
+    </Targets>
+  </ProjectGroup>
+</CONFIG>

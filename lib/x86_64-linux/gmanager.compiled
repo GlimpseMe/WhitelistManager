@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\bin\x86_64-win64\fpc.exe" Date="1390102548"/>
+  <Params Value=" -Tlinux -Px86_64 -MObjFPC -Scaghi -Cg -CirotR -O1 -gw2 -godwarfsets -gl -Xg -gt -l -vewnhibq -FiC:\lazarus\MyProjects\GlimpseManager\lib\x86_64-linux -FuC:\lazarus\lazarus\components\Indy10\Core -FuC:\lazarus\lazarus\components\Indy10\System -FuC:\lazarus\MyProjects\GlimpseManager\ -FUC:\lazarus\MyProjects\GlimpseManager\lib\x86_64-linux\ -FEC:\lazarus\MyProjects\GlimpseManager\debug\x86_64-linux\ -oC:\lazarus\MyProjects\GlimpseManager\debug\x86_64-linux\gmanager gmanager.pas"/>
+</CONFIG>

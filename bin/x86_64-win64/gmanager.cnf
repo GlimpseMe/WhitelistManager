@@ -1,0 +1,33 @@
+; This is part of the Glimpse.me game server control system to allow access to subscribed members only.
+; More information can be found at https://www.glimpse.me or on our Github page https://github.com/GlimpseMe 
+; The software is freely availalbe in source code or compiled versions.
+[General]
+; IP Address to bind to, do not change. 
+ip=0.0.0.0 
+; Port to bind to, do not change.
+port=2400 
+; Relative path to directory to save log files. Leave blank to turn off logging.  Do not include initial directory separator. 
+logdir= 
+; Password to access server. Min 3 chars. Invalid or empty password causes server to bind to localhost only (127.0.0.1)
+password=123 
+; Relative path to whitelist file. Do not include initial directory separator.
+whitelist=permittedlist.txt 
+; Relative path to ban list file. Do not include intial directory separator.
+banlist=bannedlist.txt 
+; Format of the whitelist file line. @DATA@ will be replaced by Username or SteamID.
+whitelistformat=@DATA@ 
+; Format of the ban list file line. @DATA@ will be replaced by Username or SteamID. 
+banlistformat=@DATA@ 
+; Max failed login attempts before banning IP Address
+maxlogins=3 
+; How long to ban IP Address of failed login, in seconds 300 equals 5min.
+bantime=300 
+; Comma Delimited list of IP Address that are allow to connect to server.
+allowedips= 
+; How long (in seconds) an unverified connection has to login before being disconnected.
+logintimeout=10 
+; How long (in seconds) a verified connection has to send commands before being disconnected. Each command resets timer.
+ideltimeout=10 
+; Show Debug information in console. This should never be set to "1" in an automated system, this is only for debugging in a CMD window.
+debug=1 
+
